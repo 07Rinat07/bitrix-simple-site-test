@@ -1,0 +1,1246 @@
+2023-11-13 13:39:51 -  - exec CUpdateClient::GetUpdatesList
+2023-11-13 13:39:51 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:39:51 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.300.0&VERSION=23.300.100&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.100&bitm_seo=23.200.0&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.0&bitm_subscribe=21.0.0&bitm_iblock=23.100.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=21.0.0&bitm_forum=23.0.0&bitm_blog=22.0.0&bitm_mobileapp=23.0.0&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.200.0&bitm_ui=22.1600.0&bitm_clouds=23.0.0&bitm_fileman=22.300.0&bitm_rest=23.100.0&bitm_scale=21.0.0&bitm_vote=23.0.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=22.0.200&bitm_highloadblock=22.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:39:51 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:39:52 -  - TIME GetUpdatesList(request) 0.32 sec
+2023-11-13 13:39:52 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:39:52 -  - exec CUpdateClient::executeCounters
+2023-11-13 13:39:52 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:39:52 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.300.0&VERSION=23.300.100&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.100&bitm_seo=23.200.0&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.0&bitm_subscribe=21.0.0&bitm_iblock=23.100.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=21.0.0&bitm_forum=23.0.0&bitm_blog=22.0.0&bitm_mobileapp=23.0.0&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.200.0&bitm_ui=22.1600.0&bitm_clouds=23.0.0&bitm_fileman=22.300.0&bitm_rest=23.100.0&bitm_scale=21.0.0&bitm_vote=23.0.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=22.0.200&bitm_highloadblock=22.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y&query_type=counter&cntr_result[436]=X
+2023-11-13 13:39:52 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:39:52 -  - TIME executeCounters 0.25 sec
+2023-11-13 13:49:32 -  - exec CUpdateClient::GetUpdatesList
+2023-11-13 13:49:32 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:49:32 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.300.0&VERSION=23.300.100&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.100&bitm_seo=23.200.0&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.0&bitm_subscribe=21.0.0&bitm_iblock=23.100.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=21.0.0&bitm_forum=23.0.0&bitm_blog=22.0.0&bitm_mobileapp=23.0.0&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.200.0&bitm_ui=22.1600.0&bitm_clouds=23.0.0&bitm_fileman=22.300.0&bitm_rest=23.100.0&bitm_scale=21.0.0&bitm_vote=23.0.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=22.0.200&bitm_highloadblock=22.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:49:32 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:49:33 -  - TIME GetUpdatesList(request) 0.536 sec
+2023-11-13 13:49:33 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:49:33 -  - exec CUpdateClient::executeCounters
+2023-11-13 13:49:33 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:49:33 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.300.0&VERSION=23.300.100&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.100&bitm_seo=23.200.0&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.0&bitm_subscribe=21.0.0&bitm_iblock=23.100.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=21.0.0&bitm_forum=23.0.0&bitm_blog=22.0.0&bitm_mobileapp=23.0.0&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.200.0&bitm_ui=22.1600.0&bitm_clouds=23.0.0&bitm_fileman=22.300.0&bitm_rest=23.100.0&bitm_scale=21.0.0&bitm_vote=23.0.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=22.0.200&bitm_highloadblock=22.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y&query_type=counter&cntr_result[436]=X
+2023-11-13 13:49:33 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:49:33 -  - TIME executeCounters 0.232 sec
+2023-11-13 13:50:28 -  - exec CUpdateClient::GetUpdatesList
+2023-11-13 13:50:28 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:50:28 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.300.0&VERSION=23.300.100&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.100&bitm_seo=23.200.0&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.0&bitm_subscribe=21.0.0&bitm_iblock=23.100.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=21.0.0&bitm_forum=23.0.0&bitm_blog=22.0.0&bitm_mobileapp=23.0.0&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.200.0&bitm_ui=22.1600.0&bitm_clouds=23.0.0&bitm_fileman=22.300.0&bitm_rest=23.100.0&bitm_scale=21.0.0&bitm_vote=23.0.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=22.0.200&bitm_highloadblock=22.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:50:28 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:50:28 -  - TIME GetUpdatesList(request) 0.362 sec
+2023-11-13 13:50:28 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:50:28 -  - exec CUpdateClient::executeCounters
+2023-11-13 13:50:28 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:50:28 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.300.0&VERSION=23.300.100&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.100&bitm_seo=23.200.0&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.0&bitm_subscribe=21.0.0&bitm_iblock=23.100.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=21.0.0&bitm_forum=23.0.0&bitm_blog=22.0.0&bitm_mobileapp=23.0.0&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.200.0&bitm_ui=22.1600.0&bitm_clouds=23.0.0&bitm_fileman=22.300.0&bitm_rest=23.100.0&bitm_scale=21.0.0&bitm_vote=23.0.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=22.0.200&bitm_highloadblock=22.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y&query_type=counter&cntr_result[436]=X
+2023-11-13 13:50:28 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:50:28 -  - TIME executeCounters 0.243 sec
+2023-11-13 13:51:44 -  - exec CUpdateClient::GetUpdatesList
+2023-11-13 13:51:44 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:51:44 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.300.0&VERSION=23.300.100&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.100&bitm_seo=23.200.0&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.0&bitm_subscribe=21.0.0&bitm_iblock=23.100.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=21.0.0&bitm_forum=23.0.0&bitm_blog=22.0.0&bitm_mobileapp=23.0.0&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.200.0&bitm_ui=22.1600.0&bitm_clouds=23.0.0&bitm_fileman=22.300.0&bitm_rest=23.100.0&bitm_scale=21.0.0&bitm_vote=23.0.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=22.0.200&bitm_highloadblock=22.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:51:44 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:51:44 -  - TIME GetUpdatesList(request) 0.243 sec
+2023-11-13 13:51:44 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:51:44 -  - exec CUpdateClient::executeCounters
+2023-11-13 13:51:44 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:51:44 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.300.0&VERSION=23.300.100&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.100&bitm_seo=23.200.0&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.0&bitm_subscribe=21.0.0&bitm_iblock=23.100.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=21.0.0&bitm_forum=23.0.0&bitm_blog=22.0.0&bitm_mobileapp=23.0.0&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.200.0&bitm_ui=22.1600.0&bitm_clouds=23.0.0&bitm_fileman=22.300.0&bitm_rest=23.100.0&bitm_scale=21.0.0&bitm_vote=23.0.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=22.0.200&bitm_highloadblock=22.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y&query_type=counter&cntr_result[436]=X
+2023-11-13 13:51:44 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:51:45 -  - TIME executeCounters 0.32 sec
+2023-11-13 13:51:48 -  - exec CUpdateClient::UpdateUpdate
+2023-11-13 13:51:48 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:51:48 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.300.0&VERSION=23.300.100&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.100&bitm_seo=23.200.0&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.0&bitm_subscribe=21.0.0&bitm_iblock=23.100.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=21.0.0&bitm_forum=23.0.0&bitm_blog=22.0.0&bitm_mobileapp=23.0.0&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.200.0&bitm_ui=22.1600.0&bitm_clouds=23.0.0&bitm_fileman=22.300.0&bitm_rest=23.100.0&bitm_scale=21.0.0&bitm_vote=23.0.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=22.0.200&bitm_highloadblock=22.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y&query_type=updateupdate
+2023-11-13 13:51:48 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:51:49 -  - TIME UpdateUpdate(request) 1.003 sec
+2023-11-13 13:51:49 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:51:49 -  - TIME UnGzipArchive 0.007 sec
+2023-11-13 13:51:49 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:51:49 - CURV - Update updated successfully!
+2023-11-13 13:51:49 - UPD_SUCCESS - Update system updated
+2023-11-13 13:51:49 -  - exec CUpdateClient::GetUpdatesList
+2023-11-13 13:51:49 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:51:49 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.300.100&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.100&bitm_seo=23.200.0&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.0&bitm_subscribe=21.0.0&bitm_iblock=23.100.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=21.0.0&bitm_forum=23.0.0&bitm_blog=22.0.0&bitm_mobileapp=23.0.0&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.200.0&bitm_ui=22.1600.0&bitm_clouds=23.0.0&bitm_fileman=22.300.0&bitm_rest=23.100.0&bitm_scale=21.0.0&bitm_vote=23.0.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=22.0.200&bitm_highloadblock=22.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:51:49 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:51:50 -  - TIME GetUpdatesList(request) 0.299 sec
+2023-11-13 13:51:50 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:51:50 -  - exec CUpdateClient::executeCounters
+2023-11-13 13:51:50 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:51:50 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.300.100&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.100&bitm_seo=23.200.0&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.0&bitm_subscribe=21.0.0&bitm_iblock=23.100.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=21.0.0&bitm_forum=23.0.0&bitm_blog=22.0.0&bitm_mobileapp=23.0.0&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.200.0&bitm_ui=22.1600.0&bitm_clouds=23.0.0&bitm_fileman=22.300.0&bitm_rest=23.100.0&bitm_scale=21.0.0&bitm_vote=23.0.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=22.0.200&bitm_highloadblock=22.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y&query_type=counter&cntr_result[438]=X
+2023-11-13 13:51:50 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:51:50 -  - TIME executeCounters 0.241 sec
+2023-11-13 13:51:52 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:51:52 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:51:52 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.300.100&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.100&bitm_seo=23.200.0&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.0&bitm_subscribe=21.0.0&bitm_iblock=23.100.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=21.0.0&bitm_forum=23.0.0&bitm_blog=22.0.0&bitm_mobileapp=23.0.0&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.200.0&bitm_ui=22.1600.0&bitm_clouds=23.0.0&bitm_fileman=22.300.0&bitm_rest=23.100.0&bitm_scale=21.0.0&bitm_vote=23.0.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=22.0.200&bitm_highloadblock=22.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:51:52 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:51:53 -  - TIME LoadModulesUpdates(request) 0.379 sec
+2023-11-13 13:51:53 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:51:53 - S - STEP
+2023-11-13 13:51:53 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:51:53 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:51:53 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:51:53 -  - loadFile
+2023-11-13 13:51:53 - U - RETURN
+2023-11-13 13:51:53 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:51:53 -  - TIME UnGzipArchive 0.002 sec
+2023-11-13 13:51:53 -  - TIME UpdateStepModules 0.005 sec
+2023-11-13 13:51:53 - UPD_SUCCESS - Updated: main (23.300.200)<br><li>Исправлены возможные проблемы кеширования при использовании memcache. 
+2023-11-13 13:51:53 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:51:53 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:51:53 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.300.200&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.200&bitm_seo=23.200.0&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.0&bitm_subscribe=21.0.0&bitm_iblock=23.100.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=21.0.0&bitm_forum=23.0.0&bitm_blog=22.0.0&bitm_mobileapp=23.0.0&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.200.0&bitm_ui=22.1600.0&bitm_clouds=23.0.0&bitm_fileman=22.300.0&bitm_rest=23.100.0&bitm_scale=21.0.0&bitm_vote=23.0.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=22.0.200&bitm_highloadblock=22.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:51:53 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:51:53 -  - TIME LoadModulesUpdates(request) 0.322 sec
+2023-11-13 13:51:53 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:51:53 - S - STEP
+2023-11-13 13:51:53 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:51:53 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:51:53 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:51:53 -  - loadFile
+2023-11-13 13:51:54 - U - RETURN
+2023-11-13 13:51:54 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:51:54 -  - TIME UnGzipArchive 0.001 sec
+2023-11-13 13:51:54 -  - TIME UpdateStepModules 0.001 sec
+2023-11-13 13:51:54 - UPD_SUCCESS - Updated: main (23.300.300)<br><li>Исправлена ошибка фильтрации по пользовательским полям сущностей. 
+2023-11-13 13:51:54 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:51:54 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:51:54 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.300.300&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.300&bitm_seo=23.200.0&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.0&bitm_subscribe=21.0.0&bitm_iblock=23.100.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=21.0.0&bitm_forum=23.0.0&bitm_blog=22.0.0&bitm_mobileapp=23.0.0&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.200.0&bitm_ui=22.1600.0&bitm_clouds=23.0.0&bitm_fileman=22.300.0&bitm_rest=23.100.0&bitm_scale=21.0.0&bitm_vote=23.0.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=22.0.200&bitm_highloadblock=22.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:51:54 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:51:54 -  - TIME LoadModulesUpdates(request) 0.353 sec
+2023-11-13 13:51:54 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:51:54 - S - STEP
+2023-11-13 13:51:54 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:51:54 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:51:54 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:51:54 -  - loadFile
+2023-11-13 13:51:55 - U - RETURN
+2023-11-13 13:51:55 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:51:56 -  - TIME UnGzipArchive 0.024 sec
+2023-11-13 13:51:56 - CSURUS1 - Run updater '/bitrix/updates/update_m1699872715/fileman/updater23.0.0.php'
+2023-11-13 13:51:56 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872715/fileman/updater23.0.0.php': CopyFiles(install/components, components)
+2023-11-13 13:51:56 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872715/fileman/updater23.0.0.php': CopyFiles(install/js, js)
+2023-11-13 13:51:56 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872715/fileman/updater23.0.0.php': CopyFiles(install/tools, tools)
+2023-11-13 13:51:56 -  - TIME UpdateStepModules 0.028 sec
+2023-11-13 13:51:56 - UPD_SUCCESS - Updated: fileman (23.0.0)<br><li>Исправлены известные ошибки и предупреждения, связанные с переходом на PHP 8.
+2023-11-13 13:51:56 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:51:56 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:51:56 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.300.300&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.300&bitm_seo=23.200.0&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.0&bitm_subscribe=21.0.0&bitm_iblock=23.100.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=21.0.0&bitm_forum=23.0.0&bitm_blog=22.0.0&bitm_mobileapp=23.0.0&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.200.0&bitm_ui=22.1600.0&bitm_clouds=23.0.0&bitm_fileman=23.0.0&bitm_rest=23.100.0&bitm_scale=21.0.0&bitm_vote=23.0.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=22.0.200&bitm_highloadblock=22.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:51:56 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:51:56 -  - TIME LoadModulesUpdates(request) 0.307 sec
+2023-11-13 13:51:56 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:51:56 - S - STEP
+2023-11-13 13:51:56 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:51:56 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:51:56 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:51:56 -  - loadFile
+2023-11-13 13:51:56 - U - RETURN
+2023-11-13 13:51:56 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:51:56 -  - TIME UnGzipArchive 0 sec
+2023-11-13 13:51:56 -  - TIME UpdateStepModules 0.001 sec
+2023-11-13 13:51:56 - UPD_SUCCESS - Updated: fileman (23.0.100)<br><li>Исправлены известные ошибки при сохранении адреса.
+2023-11-13 13:51:56 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:51:56 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:51:56 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.300.300&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.300&bitm_seo=23.200.0&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.0&bitm_subscribe=21.0.0&bitm_iblock=23.100.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=21.0.0&bitm_forum=23.0.0&bitm_blog=22.0.0&bitm_mobileapp=23.0.0&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.200.0&bitm_ui=22.1600.0&bitm_clouds=23.0.0&bitm_fileman=23.0.100&bitm_rest=23.100.0&bitm_scale=21.0.0&bitm_vote=23.0.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=22.0.200&bitm_highloadblock=22.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:51:56 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:51:56 -  - TIME LoadModulesUpdates(request) 0.344 sec
+2023-11-13 13:51:56 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:51:56 - S - STEP
+2023-11-13 13:51:56 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:51:57 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:51:57 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:51:57 -  - loadFile
+2023-11-13 13:51:57 - U - RETURN
+2023-11-13 13:51:57 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:51:57 -  - TIME UnGzipArchive 0 sec
+2023-11-13 13:51:57 -  - TIME UpdateStepModules 0.001 sec
+2023-11-13 13:51:57 - UPD_SUCCESS - Updated: fileman (23.0.200)<br><li>Усилена безопасность модуля.
+2023-11-13 13:51:57 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:51:57 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:51:57 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.300.300&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.300&bitm_seo=23.200.0&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.0&bitm_subscribe=21.0.0&bitm_iblock=23.100.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=21.0.0&bitm_forum=23.0.0&bitm_blog=22.0.0&bitm_mobileapp=23.0.0&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.200.0&bitm_ui=22.1600.0&bitm_clouds=23.0.0&bitm_fileman=23.0.200&bitm_rest=23.100.0&bitm_scale=21.0.0&bitm_vote=23.0.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=22.0.200&bitm_highloadblock=22.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:51:57 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:51:57 -  - TIME LoadModulesUpdates(request) 0.353 sec
+2023-11-13 13:51:57 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:51:57 - S - STEP
+2023-11-13 13:51:57 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:51:57 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:51:57 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:51:57 -  - loadFile
+2023-11-13 13:51:57 - U - RETURN
+2023-11-13 13:51:57 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:51:57 -  - TIME UnGzipArchive 0.001 sec
+2023-11-13 13:51:57 - CSURUS1 - Run updater '/bitrix/updates/update_m1699872717/forum/updater23.100.0.php'
+2023-11-13 13:51:57 -  - TIME UpdateStepModules 0.002 sec
+2023-11-13 13:51:57 - UPD_SUCCESS - Updated: forum (23.100.0)<br><li>Интеграция комментариев с новым загрузчиком файлов.
+2023-11-13 13:51:57 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:51:57 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:51:57 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.300.300&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.300&bitm_seo=23.200.0&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.0&bitm_subscribe=21.0.0&bitm_iblock=23.100.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=21.0.0&bitm_forum=23.100.0&bitm_blog=22.0.0&bitm_mobileapp=23.0.0&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.200.0&bitm_ui=22.1600.0&bitm_clouds=23.0.0&bitm_fileman=23.0.200&bitm_rest=23.100.0&bitm_scale=21.0.0&bitm_vote=23.0.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=22.0.200&bitm_highloadblock=22.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:51:57 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:51:58 -  - TIME LoadModulesUpdates(request) 0.29 sec
+2023-11-13 13:51:58 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:51:58 - S - STEP
+2023-11-13 13:51:58 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:51:58 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:51:58 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:51:58 -  - loadFile
+2023-11-13 13:51:58 - U - RETURN
+2023-11-13 13:51:58 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:51:58 -  - TIME UnGzipArchive 0.003 sec
+2023-11-13 13:51:58 - CSURUS1 - Run updater '/bitrix/updates/update_m1699872718/forum/updater23.200.0.php'
+2023-11-13 13:51:58 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872718/forum/updater23.200.0.php': CopyFiles(install/components, components)
+2023-11-13 13:51:58 -  - TIME UpdateStepModules 0.008 sec
+2023-11-13 13:51:58 - UPD_SUCCESS - Updated: forum (23.200.0)<br><li>Обновлены комментарии мобильного приложения. <li>Исправлены незначительные ошибки. 
+2023-11-13 13:51:58 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:51:58 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:51:58 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.300.300&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.300&bitm_seo=23.200.0&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.0&bitm_subscribe=21.0.0&bitm_iblock=23.100.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=21.0.0&bitm_forum=23.200.0&bitm_blog=22.0.0&bitm_mobileapp=23.0.0&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.200.0&bitm_ui=22.1600.0&bitm_clouds=23.0.0&bitm_fileman=23.0.200&bitm_rest=23.100.0&bitm_scale=21.0.0&bitm_vote=23.0.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=22.0.200&bitm_highloadblock=22.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:51:58 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:51:59 -  - TIME LoadModulesUpdates(request) 0.308 sec
+2023-11-13 13:51:59 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:51:59 - S - STEP
+2023-11-13 13:51:59 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:51:59 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:51:59 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:51:59 -  - loadFile
+2023-11-13 13:51:59 - U - RETURN
+2023-11-13 13:51:59 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:51:59 -  - TIME UnGzipArchive 0 sec
+2023-11-13 13:51:59 - CSURUS1 - Run updater '/bitrix/updates/update_m1699872719/forum/updater23.250.0.php'
+2023-11-13 13:51:59 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872719/forum/updater23.250.0.php': CopyFiles(install/components, components)
+2023-11-13 13:51:59 -  - TIME UpdateStepModules 0.001 sec
+2023-11-13 13:51:59 - UPD_SUCCESS - Updated: forum (23.250.0)<br><li>Улучшена совместимость с модулем ai.
+2023-11-13 13:51:59 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:51:59 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:51:59 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.300.300&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.300&bitm_seo=23.200.0&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.0&bitm_subscribe=21.0.0&bitm_iblock=23.100.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=21.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.0.0&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.200.0&bitm_ui=22.1600.0&bitm_clouds=23.0.0&bitm_fileman=23.0.200&bitm_rest=23.100.0&bitm_scale=21.0.0&bitm_vote=23.0.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=22.0.200&bitm_highloadblock=22.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:51:59 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:51:59 -  - TIME LoadModulesUpdates(request) 0.313 sec
+2023-11-13 13:51:59 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:51:59 - S - STEP
+2023-11-13 13:51:59 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:51:59 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:51:59 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:51:59 -  - loadFile
+2023-11-13 13:51:59 - U - RETURN
+2023-11-13 13:51:59 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:51:59 -  - TIME UnGzipArchive 0.002 sec
+2023-11-13 13:51:59 - CSURUS1 - Run updater '/bitrix/updates/update_m1699872719/iblock/updater23.100.100.php'
+2023-11-13 13:51:59 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872719/iblock/updater23.100.100.php': CopyFiles(install/components, components)
+2023-11-13 13:51:59 -  - TIME UpdateStepModules 0.004 sec
+2023-11-13 13:51:59 - UPD_SUCCESS - Updated: iblock (23.100.100)<br><li>В форме настроек свойств товаров для публичного магазина не поддерживалась настройка \"Показывать в интернет-магазине\". <li>Исправлено редактирование свойств типа \"Справочник\" в форме настроек свойств товаров для публичного магазина.
+2023-11-13 13:51:59 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:51:59 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:51:59 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.300.300&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.300&bitm_seo=23.200.0&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.0&bitm_subscribe=21.0.0&bitm_iblock=23.100.100&bitm_bitrixcloud=22.100.0&bitm_perfmon=21.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.0.0&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.200.0&bitm_ui=22.1600.0&bitm_clouds=23.0.0&bitm_fileman=23.0.200&bitm_rest=23.100.0&bitm_scale=21.0.0&bitm_vote=23.0.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=22.0.200&bitm_highloadblock=22.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:51:59 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:00 -  - TIME LoadModulesUpdates(request) 0.308 sec
+2023-11-13 13:52:00 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:00 - S - STEP
+2023-11-13 13:52:00 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:00 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:00 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:00 -  - loadFile
+2023-11-13 13:52:00 - U - RETURN
+2023-11-13 13:52:00 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:00 -  - TIME UnGzipArchive 0.001 sec
+2023-11-13 13:52:00 -  - TIME UpdateStepModules 0.001 sec
+2023-11-13 13:52:00 - UPD_SUCCESS - Updated: iblock (23.100.200)<br><li>Исправлена ошибка сохранения значений в поле \"Привязка к элементам CRM\" при записи из бизнес-процессов. 
+2023-11-13 13:52:00 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:00 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:00 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.300.300&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.300&bitm_seo=23.200.0&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.0&bitm_subscribe=21.0.0&bitm_iblock=23.100.200&bitm_bitrixcloud=22.100.0&bitm_perfmon=21.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.0.0&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.200.0&bitm_ui=22.1600.0&bitm_clouds=23.0.0&bitm_fileman=23.0.200&bitm_rest=23.100.0&bitm_scale=21.0.0&bitm_vote=23.0.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=22.0.200&bitm_highloadblock=22.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:00 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:00 -  - TIME LoadModulesUpdates(request) 0.315 sec
+2023-11-13 13:52:00 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:00 - S - STEP
+2023-11-13 13:52:00 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:00 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:00 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:00 -  - loadFile
+2023-11-13 13:52:01 - U - RETURN
+2023-11-13 13:52:01 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:01 -  - TIME UnGzipArchive 0.022 sec
+2023-11-13 13:52:01 - CSURUS1 - Run updater '/bitrix/updates/update_m1699872721/iblock/updater23.200.0/index.php'
+2023-11-13 13:52:01 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872721/iblock/updater23.200.0/index.php': CopyFiles(install/components, components)
+2023-11-13 13:52:01 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872721/iblock/updater23.200.0/index.php': CopyFiles(install/js, js)
+2023-11-13 13:52:01 -  - TIME UpdateStepModules 0.037 sec
+2023-11-13 13:52:01 - UPD_SUCCESS - Updated: iblock (23.200.0)<br><li>Улучшена производительность модуля. <li>Разработчикам! В метод \\CIBlockProperty::GetPropertyArray добавлен управляемый кеш выборки свойств.
+2023-11-13 13:52:01 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:01 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:01 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.300.300&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.300&bitm_seo=23.200.0&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=21.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.0.0&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.200.0&bitm_ui=22.1600.0&bitm_clouds=23.0.0&bitm_fileman=23.0.200&bitm_rest=23.100.0&bitm_scale=21.0.0&bitm_vote=23.0.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=22.0.200&bitm_highloadblock=22.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:01 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:02 -  - TIME LoadModulesUpdates(request) 0.448 sec
+2023-11-13 13:52:02 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:02 - S - STEP
+2023-11-13 13:52:02 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:02 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:02 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:02 -  - loadFile
+2023-11-13 13:52:02 - U - RETURN
+2023-11-13 13:52:02 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:02 -  - TIME UnGzipArchive 0.01 sec
+2023-11-13 13:52:02 - CSURUS1 - Run updater '/bitrix/updates/update_m1699872722/translate/updater23.300.0.php'
+2023-11-13 13:52:02 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872722/translate/updater23.300.0.php': CopyFiles(install/components, components)
+2023-11-13 13:52:02 -  - TIME UpdateStepModules 0.027 sec
+2023-11-13 13:52:02 - UPD_SUCCESS - Updated: translate (23.300.0)<br><li>Добавлена возможность выгрузки в файл csv имеющихся примеров переводов фраз из других файлов. <li>Для оптимизации поиска фраз реализовано парционирование полнотекстового индекса. <li>Увеличена скорость выполнения запроса поиска фраз по поисковому индексу. <li>Экспорт отдельного языкового файла в формат csv теперь выполняется в пошаговом режиме. 
+2023-11-13 13:52:02 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:02 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:02 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.300.300&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.300&bitm_seo=23.200.0&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=21.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.0.0&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=22.1600.0&bitm_clouds=23.0.0&bitm_fileman=23.0.200&bitm_rest=23.100.0&bitm_scale=21.0.0&bitm_vote=23.0.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=22.0.200&bitm_highloadblock=22.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:02 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:02 -  - TIME LoadModulesUpdates(request) 0.33 sec
+2023-11-13 13:52:02 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:02 - S - STEP
+2023-11-13 13:52:02 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:02 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:02 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:02 -  - loadFile
+2023-11-13 13:52:03 - U - RETURN
+2023-11-13 13:52:03 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:03 -  - TIME UnGzipArchive 0.003 sec
+2023-11-13 13:52:03 - CSURUS1 - Run updater '/bitrix/updates/update_m1699872723/vote/updater23.100.0.php'
+2023-11-13 13:52:03 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872723/vote/updater23.100.0.php': CopyFiles(install/tools, tools/vote)
+2023-11-13 13:52:03 -  - TIME UpdateStepModules 0.005 sec
+2023-11-13 13:52:03 - UPD_SUCCESS - Updated: vote (23.100.0)<br><li>Улучшена обработка транзакций БД. 
+2023-11-13 13:52:03 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:03 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:03 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.300.300&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.300&bitm_seo=23.200.0&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=21.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.0.0&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=22.1600.0&bitm_clouds=23.0.0&bitm_fileman=23.0.200&bitm_rest=23.100.0&bitm_scale=21.0.0&bitm_vote=23.100.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=22.0.200&bitm_highloadblock=22.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:03 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:03 -  - TIME LoadModulesUpdates(request) 0.317 sec
+2023-11-13 13:52:03 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:03 - S - STEP
+2023-11-13 13:52:03 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:03 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:03 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:03 -  - loadFile
+2023-11-13 13:52:03 - U - RETURN
+2023-11-13 13:52:03 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:03 -  - TIME UnGzipArchive 0.002 sec
+2023-11-13 13:52:03 - CSURUS1 - Run updater '/bitrix/updates/update_m1699872723/vote/updater23.200.0.php'
+2023-11-13 13:52:03 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872723/vote/updater23.200.0.php': CopyFiles(install/components, components)
+2023-11-13 13:52:03 -  - TIME UpdateStepModules 0.003 sec
+2023-11-13 13:52:03 - UPD_SUCCESS - Updated: vote (23.200.0)<br><li>Незначительные исправления. 
+2023-11-13 13:52:03 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:03 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:03 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.300.300&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.300&bitm_seo=23.200.0&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=21.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.0.0&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=22.1600.0&bitm_clouds=23.0.0&bitm_fileman=23.0.200&bitm_rest=23.100.0&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=22.0.200&bitm_highloadblock=22.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:03 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:04 -  - TIME LoadModulesUpdates(request) 0.299 sec
+2023-11-13 13:52:04 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:04 - S - STEP
+2023-11-13 13:52:04 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:04 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:04 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:04 -  - loadFile
+2023-11-13 13:52:04 - U - RETURN
+2023-11-13 13:52:04 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:04 -  - TIME UnGzipArchive 0.002 sec
+2023-11-13 13:52:04 - CSURUS1 - Run updater '/bitrix/updates/update_m1699872724/photogallery/updater22.0.300.php'
+2023-11-13 13:52:04 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872724/photogallery/updater22.0.300.php': CopyFiles(install/components, components)
+2023-11-13 13:52:04 -  - TIME UpdateStepModules 0.003 sec
+2023-11-13 13:52:04 - UPD_SUCCESS - Updated: photogallery (22.0.300)<br><li>Исправлена ошибка PHP в списке альбомов.
+2023-11-13 13:52:04 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:04 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:04 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.300.300&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.300&bitm_seo=23.200.0&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=21.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.0.0&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=22.1600.0&bitm_clouds=23.0.0&bitm_fileman=23.0.200&bitm_rest=23.100.0&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=22.0.300&bitm_highloadblock=22.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:04 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:04 -  - TIME LoadModulesUpdates(request) 0.345 sec
+2023-11-13 13:52:04 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:04 - S - STEP
+2023-11-13 13:52:04 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:04 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:04 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:04 -  - loadFile
+2023-11-13 13:52:05 - U - RETURN
+2023-11-13 13:52:05 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:05 -  - TIME UnGzipArchive 0.006 sec
+2023-11-13 13:52:05 - CSURUS1 - Run updater '/bitrix/updates/update_m1699872725/photogallery/updater23.0.0.php'
+2023-11-13 13:52:05 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872725/photogallery/updater23.0.0.php': CopyFiles(install/components, components)
+2023-11-13 13:52:05 -  - TIME UpdateStepModules 0.007 sec
+2023-11-13 13:52:05 - UPD_SUCCESS - Updated: photogallery (23.0.0)<br><li>Исправлены известные ошибки и предупреждения, связанные с переходом на PHP 8.
+2023-11-13 13:52:05 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:05 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:05 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.300.300&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.300&bitm_seo=23.200.0&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=21.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.0.0&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=22.1600.0&bitm_clouds=23.0.0&bitm_fileman=23.0.200&bitm_rest=23.100.0&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=22.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:05 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:05 -  - TIME LoadModulesUpdates(request) 0.276 sec
+2023-11-13 13:52:05 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:05 - S - STEP
+2023-11-13 13:52:05 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:05 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:05 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:05 -  - loadFile
+2023-11-13 13:52:05 - U - RETURN
+2023-11-13 13:52:05 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:05 -  - TIME UnGzipArchive 0.007 sec
+2023-11-13 13:52:05 -  - TIME UpdateStepModules 0.004 sec
+2023-11-13 13:52:05 - UPD_SUCCESS - Updated: perfmon (23.0.0)<br><li>Улучшена поддержка mysql 8. <li>Добавлена информация по размеру индексов в таблицах базы данных. <li>Актуализированы акселераторы и типы кеширования. <li>Новый интерфейс для просмотра таблиц. 
+2023-11-13 13:52:05 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:05 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:05 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.300.300&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.300&bitm_seo=23.200.0&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.0.0&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=22.1600.0&bitm_clouds=23.0.0&bitm_fileman=23.0.200&bitm_rest=23.100.0&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=22.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:05 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:06 -  - TIME LoadModulesUpdates(request) 0.281 sec
+2023-11-13 13:52:06 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:06 - S - STEP
+2023-11-13 13:52:06 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:06 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:06 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:06 -  - loadFile
+2023-11-13 13:52:06 - U - RETURN
+2023-11-13 13:52:06 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:06 -  - TIME UnGzipArchive 0.001 sec
+2023-11-13 13:52:06 - CSURUS1 - Run updater '/bitrix/updates/update_m1699872726/seo/updater23.300.0.php'
+2023-11-13 13:52:06 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872726/seo/updater23.300.0.php': CopyFiles(install/components, components)
+2023-11-13 13:52:06 -  - TIME UpdateStepModules 0.003 sec
+2023-11-13 13:52:06 - UPD_SUCCESS - Updated: seo (23.300.0)<br><li>Реализована поддержка аудиторий в новом кабинете VK Реклама.
+2023-11-13 13:52:06 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:06 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:06 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.300.300&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.300&bitm_seo=23.300.0&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.0.0&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=22.1600.0&bitm_clouds=23.0.0&bitm_fileman=23.0.200&bitm_rest=23.100.0&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=22.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:06 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:06 -  - TIME LoadModulesUpdates(request) 0.307 sec
+2023-11-13 13:52:06 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:06 - S - STEP
+2023-11-13 13:52:06 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:06 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:06 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:06 -  - loadFile
+2023-11-13 13:52:07 - U - RETURN
+2023-11-13 13:52:07 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:07 -  - TIME UnGzipArchive 0.006 sec
+2023-11-13 13:52:07 - CSURUS1 - Run updater '/bitrix/updates/update_m1699872727/seo/updater23.300.100.php'
+2023-11-13 13:52:07 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872727/seo/updater23.300.100.php': CopyFiles(install/components, components)
+2023-11-13 13:52:07 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872727/seo/updater23.300.100.php': CopyFiles(install/js, js)
+2023-11-13 13:52:07 -  - TIME UpdateStepModules 0.025 sec
+2023-11-13 13:52:07 - UPD_SUCCESS - Updated: seo (23.300.100)<br><li>Исправлена проблема с некорректным автообновлением карты сайта.
+2023-11-13 13:52:07 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:07 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:07 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.300.300&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.300&bitm_seo=23.300.100&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.0.0&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=22.1600.0&bitm_clouds=23.0.0&bitm_fileman=23.0.200&bitm_rest=23.100.0&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=22.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:07 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:07 -  - TIME LoadModulesUpdates(request) 0.358 sec
+2023-11-13 13:52:07 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:07 - S - STEP
+2023-11-13 13:52:07 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:07 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:07 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:07 -  - loadFile
+2023-11-13 13:52:07 - U - RETURN
+2023-11-13 13:52:07 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:07 -  - TIME UnGzipArchive 0.002 sec
+2023-11-13 13:52:07 - CSURUS1 - Run updater '/bitrix/updates/update_m1699872727/seo/updater23.300.200.php'
+2023-11-13 13:52:07 -  - TIME UpdateStepModules 0.039 sec
+2023-11-13 13:52:07 - UPD_SUCCESS - Updated: seo (23.300.200)<br><li>Исправлена ошибка генерации карты сайта на установках с большим количеством элементов.
+2023-11-13 13:52:07 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:07 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:07 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.300.300&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.300&bitm_seo=23.300.200&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.0.0&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=22.1600.0&bitm_clouds=23.0.0&bitm_fileman=23.0.200&bitm_rest=23.100.0&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=22.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:07 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:08 -  - TIME LoadModulesUpdates(request) 0.309 sec
+2023-11-13 13:52:08 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:08 - S - STEP
+2023-11-13 13:52:08 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:08 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:08 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:08 -  - loadFile
+2023-11-13 13:52:08 - U - RETURN
+2023-11-13 13:52:08 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:08 -  - TIME UnGzipArchive 0.001 sec
+2023-11-13 13:52:08 -  - TIME UpdateStepModules 0.003 sec
+2023-11-13 13:52:08 - UPD_SUCCESS - Updated: seo (23.300.250)<br><li>Исправлена ошибка подгрузки списков пользователей в VK Реклама.
+2023-11-13 13:52:08 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:08 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:08 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.300.300&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.300&bitm_seo=23.300.250&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.0.0&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=22.1600.0&bitm_clouds=23.0.0&bitm_fileman=23.0.200&bitm_rest=23.100.0&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=22.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:08 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:08 -  - TIME LoadModulesUpdates(request) 0.306 sec
+2023-11-13 13:52:08 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:08 - S - STEP
+2023-11-13 13:52:08 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:08 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:08 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:08 -  - loadFile
+2023-11-13 13:52:09 - U - RETURN
+2023-11-13 13:52:09 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:09 -  - TIME UnGzipArchive 0.005 sec
+2023-11-13 13:52:09 -  - TIME UpdateStepModules 0.003 sec
+2023-11-13 13:52:09 - UPD_SUCCESS - Updated: seo (23.300.300)<br><li>Исправлен показ раздела \"Поисковая оптимизация\" в редакции \"Интернет-магазин + CRM\".
+2023-11-13 13:52:09 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:09 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:09 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.300.300&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.300&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.0.0&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=22.1600.0&bitm_clouds=23.0.0&bitm_fileman=23.0.200&bitm_rest=23.100.0&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=22.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:09 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:09 -  - TIME LoadModulesUpdates(request) 0.33 sec
+2023-11-13 13:52:09 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:09 - S - STEP
+2023-11-13 13:52:09 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:09 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:09 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:09 -  - loadFile
+2023-11-13 13:52:09 - U - RETURN
+2023-11-13 13:52:09 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:09 -  - TIME UnGzipArchive 0.003 sec
+2023-11-13 13:52:09 -  - TIME UpdateStepModules 0.001 sec
+2023-11-13 13:52:09 - UPD_SUCCESS - Updated: clouds (23.100.0)<br><li>Улучшена работа с истекшими токенами облачных хранилищ. 
+2023-11-13 13:52:09 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:09 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:09 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.300.300&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.300&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.0.0&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=22.1600.0&bitm_clouds=23.100.0&bitm_fileman=23.0.200&bitm_rest=23.100.0&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=22.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:09 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:10 -  - TIME LoadModulesUpdates(request) 0.321 sec
+2023-11-13 13:52:10 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:10 - S - STEP
+2023-11-13 13:52:10 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:10 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:10 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:10 -  - loadFile
+2023-11-13 13:52:10 - U - RETURN
+2023-11-13 13:52:10 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:10 -  - TIME UnGzipArchive 0.002 sec
+2023-11-13 13:52:10 - CSURUS1 - Run updater '/bitrix/updates/update_m1699872730/mobileapp/updater23.100.0.php'
+2023-11-13 13:52:10 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872730/mobileapp/updater23.100.0.php': CopyFiles(install/js, js)
+2023-11-13 13:52:10 -  - TIME UpdateStepModules 0.004 sec
+2023-11-13 13:52:10 - UPD_SUCCESS - Updated: mobileapp (23.100.0)<br><li>Незначительные изменения.
+2023-11-13 13:52:10 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:10 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:10 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.300.300&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.300&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.0&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=22.1600.0&bitm_clouds=23.100.0&bitm_fileman=23.0.200&bitm_rest=23.100.0&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=22.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:10 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:10 -  - TIME LoadModulesUpdates(request) 0.331 sec
+2023-11-13 13:52:10 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:10 - S - STEP
+2023-11-13 13:52:10 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:10 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:10 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:10 -  - loadFile
+2023-11-13 13:52:10 - U - RETURN
+2023-11-13 13:52:10 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:10 -  - TIME UnGzipArchive 0.002 sec
+2023-11-13 13:52:10 -  - TIME UpdateStepModules 0.003 sec
+2023-11-13 13:52:10 - UPD_SUCCESS - Updated: mobileapp (23.100.100)<br><li>Добавлено событие формирования контента мобильного компонента.
+2023-11-13 13:52:10 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:10 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:10 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.300.300&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.300&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=22.1600.0&bitm_clouds=23.100.0&bitm_fileman=23.0.200&bitm_rest=23.100.0&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=22.200.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:10 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:11 -  - TIME LoadModulesUpdates(request) 0.311 sec
+2023-11-13 13:52:11 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:11 - S - STEP
+2023-11-13 13:52:11 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:11 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:11 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:11 -  - loadFile
+2023-11-13 13:52:11 - U - RETURN
+2023-11-13 13:52:11 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:11 -  - TIME UnGzipArchive 0.002 sec
+2023-11-13 13:52:11 -  - TIME UpdateStepModules 0.001 sec
+2023-11-13 13:52:11 - UPD_SUCCESS - Updated: highloadblock (22.300.0)<br><li>Исправлены ошибки свойств типа \"Справочник\" в публичной карточке товара. <li>Восстановлена обратная совместимость формата данных для обработчиков событий OnAfterUpdate highload-блоков. <li>Исправлена проверка доступа к highload-блоку для пользователя при первой авторизации. <li>Разработчикам: Внимание! Первичный ключ таблета \\Bitrix\\Highloadblock\\HighloadBlockLangTable теперь включает поля ID и LID.
+2023-11-13 13:52:11 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:11 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:11 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.300.300&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.300&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=22.1600.0&bitm_clouds=23.100.0&bitm_fileman=23.0.200&bitm_rest=23.100.0&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=22.300.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:11 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:11 -  - TIME LoadModulesUpdates(request) 0.304 sec
+2023-11-13 13:52:11 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:11 - S - STEP
+2023-11-13 13:52:11 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:11 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:11 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:11 -  - loadFile
+2023-11-13 13:52:12 - U - RETURN
+2023-11-13 13:52:12 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:12 -  - TIME UnGzipArchive 0.005 sec
+2023-11-13 13:52:12 - CSURUS1 - Run updater '/bitrix/updates/update_m1699872732/highloadblock/updater23.0.0/index.php'
+2023-11-13 13:52:12 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872732/highloadblock/updater23.0.0/index.php': CopyFiles(install/components, components)
+2023-11-13 13:52:12 -  - TIME UpdateStepModules 0.003 sec
+2023-11-13 13:52:12 - UPD_SUCCESS - Updated: highloadblock (23.0.0)<br><li>Невозможно было удалить highload-блок из административного раздела. <li>Улучшена работа на PHP 8.
+2023-11-13 13:52:12 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:12 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:12 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.300.300&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.300&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=22.1600.0&bitm_clouds=23.100.0&bitm_fileman=23.0.200&bitm_rest=23.100.0&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:12 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:12 -  - TIME LoadModulesUpdates(request) 0.268 sec
+2023-11-13 13:52:12 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:12 - S - STEP
+2023-11-13 13:52:12 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:12 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:12 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:12 -  - loadFile
+2023-11-13 13:52:12 - U - RETURN
+2023-11-13 13:52:12 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:12 -  - TIME UnGzipArchive 0.002 sec
+2023-11-13 13:52:12 -  - TIME UpdateStepModules 0.004 sec
+2023-11-13 13:52:12 - UPD_SUCCESS - Updated: rest (23.100.100)<br><li>Возврат верного значения total в списке оффлайн событий.
+2023-11-13 13:52:12 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:12 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:12 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.300.300&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.300&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=22.1600.0&bitm_clouds=23.100.0&bitm_fileman=23.0.200&bitm_rest=23.100.100&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:12 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:13 -  - TIME LoadModulesUpdates(request) 0.251 sec
+2023-11-13 13:52:13 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:13 - S - STEP
+2023-11-13 13:52:13 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:13 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:13 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:13 -  - loadFile
+2023-11-13 13:52:13 - U - RETURN
+2023-11-13 13:52:13 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:13 -  - TIME UnGzipArchive 0.001 sec
+2023-11-13 13:52:13 -  - TIME UpdateStepModules 0.003 sec
+2023-11-13 13:52:13 - UPD_SUCCESS - Updated: rest (23.100.200)<br><li>Добавлен уникальный идентификатор запроса к oauth.
+2023-11-13 13:52:13 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:13 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:13 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.300.300&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.300&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=22.1600.0&bitm_clouds=23.100.0&bitm_fileman=23.0.200&bitm_rest=23.100.200&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:13 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:13 -  - TIME LoadModulesUpdates(request) 0.253 sec
+2023-11-13 13:52:13 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:13 - S - STEP
+2023-11-13 13:52:13 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:13 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:13 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:13 -  - loadFile
+2023-11-13 13:52:13 - U - RETURN
+2023-11-13 13:52:13 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:13 -  - TIME UnGzipArchive 0.003 sec
+2023-11-13 13:52:13 -  - TIME UpdateStepModules 0.003 sec
+2023-11-13 13:52:13 - UPD_SUCCESS - Updated: messageservice (23.0.100)<br><li>Добавлено кеширование активных каналов у провайдеров sms.edna.ru и Edna.ru WhatsApp для ускорения работы зависимых компонентов.
+2023-11-13 13:52:13 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:13 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:13 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.300.300&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.300&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.100&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=22.1600.0&bitm_clouds=23.100.0&bitm_fileman=23.0.200&bitm_rest=23.100.200&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:13 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:14 -  - TIME LoadModulesUpdates(request) 0.266 sec
+2023-11-13 13:52:14 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:14 - S - STEP
+2023-11-13 13:52:14 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:14 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:14 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:14 -  - loadFile
+2023-11-13 13:52:14 - U - RETURN
+2023-11-13 13:52:14 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:14 -  - TIME UnGzipArchive 0.004 sec
+2023-11-13 13:52:14 - CSURUS1 - Run updater '/bitrix/updates/update_m1699872734/messageservice/updater23.0.200.php'
+2023-11-13 13:52:14 -  - TIME UpdateStepModules 0.019 sec
+2023-11-13 13:52:14 - UPD_SUCCESS - Updated: messageservice (23.0.200)<br><li>Незначительные улучшения.
+2023-11-13 13:52:14 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:14 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:14 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.300.300&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.300&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.0.200&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=22.1600.0&bitm_clouds=23.100.0&bitm_fileman=23.0.200&bitm_rest=23.100.200&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:14 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:14 -  - TIME LoadModulesUpdates(request) 0.267 sec
+2023-11-13 13:52:14 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:14 - S - STEP
+2023-11-13 13:52:14 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:14 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:14 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:14 -  - loadFile
+2023-11-13 13:52:14 - U - RETURN
+2023-11-13 13:52:14 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:14 -  - TIME UnGzipArchive 0.008 sec
+2023-11-13 13:52:14 -  - TIME UpdateStepModules 0.011 sec
+2023-11-13 13:52:14 - UPD_SUCCESS - Updated: messageservice (23.100.0)<br><li>На виджет открытых линий для сайта вынесена кнопка коннектора \"Whatsapp через Edna\". 
+2023-11-13 13:52:14 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:14 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:14 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.300.300&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.300&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.100.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=22.1600.0&bitm_clouds=23.100.0&bitm_fileman=23.0.200&bitm_rest=23.100.200&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:14 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:15 -  - TIME LoadModulesUpdates(request) 0.263 sec
+2023-11-13 13:52:15 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:15 - S - STEP
+2023-11-13 13:52:15 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:15 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:15 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:15 -  - loadFile
+2023-11-13 13:52:16 - U - RETURN
+2023-11-13 13:52:16 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:16 -  - TIME UnGzipArchive 0.059 sec
+2023-11-13 13:52:16 - CSURUS1 - Run updater '/bitrix/updates/update_m1699872736/ui/updater23.100.0.php'
+2023-11-13 13:52:16 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872736/ui/updater23.100.0.php': CopyFiles(install/components, components)
+2023-11-13 13:52:16 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872736/ui/updater23.100.0.php': CopyFiles(install/js, js)
+2023-11-13 13:52:16 -  - TIME UpdateStepModules 0.153 sec
+2023-11-13 13:52:16 - UPD_SUCCESS - Updated: ui (23.100.0)<br><li>Добавлено расширение (набор) иконок ui.icon-set. <li>Переписан ui.switcher на es6+. <li>Исправлена проблема скрытия правого \"уха\" в ui.ears. <li>ui.entity-catalog добавлено состояние с сообщением, когда еще не выбрана ни одна группа.
+2023-11-13 13:52:16 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:16 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:16 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.300.300&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.300.300&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.100.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=23.100.0&bitm_clouds=23.100.0&bitm_fileman=23.0.200&bitm_rest=23.100.200&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:16 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:16 -  - TIME LoadModulesUpdates(request) 0.275 sec
+2023-11-13 13:52:16 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:16 - S - STEP
+2023-11-13 13:52:16 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:16 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:16 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:16 -  - loadFile
+2023-11-13 13:52:18 - U - RETURN
+2023-11-13 13:52:18 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:18 -  - TIME UnGzipArchive 0.028 sec
+2023-11-13 13:52:18 - CSURUS1 - Run updater '/bitrix/updates/update_m1699872738/main/updater23.400.0.php'
+2023-11-13 13:52:18 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872738/main/updater23.400.0.php': CopyFiles(install/components, components)
+2023-11-13 13:52:18 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872738/main/updater23.400.0.php': CopyFiles(install/js, js)
+2023-11-13 13:52:18 -  - TIME UpdateStepModules 0.034 sec
+2023-11-13 13:52:18 - UPD_SUCCESS - Updated: main (23.400.0)<br><li>Улучшена совместимость с PHP 8. <li>Интеграция компонента комментариев (main.post.form/main.post.list) с новым загрузчиком файлов. 
+2023-11-13 13:52:18 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:18 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:18 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.400.0&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.400.0&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.100.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=23.100.0&bitm_clouds=23.100.0&bitm_fileman=23.0.200&bitm_rest=23.100.200&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:18 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:18 -  - TIME LoadModulesUpdates(request) 0.248 sec
+2023-11-13 13:52:18 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:18 - S - STEP
+2023-11-13 13:52:18 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:18 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:18 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:18 -  - loadFile
+2023-11-13 13:52:21 - U - RETURN
+2023-11-13 13:52:21 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:21 -  - TIME UnGzipArchive 0.04 sec
+2023-11-13 13:52:21 - CSURUS1 - Run updater '/bitrix/updates/update_m1699872741/main/updater23.500.0/index.php'
+2023-11-13 13:52:21 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1699872741/main/updater23.500.0/index.php': Query(
+			alter table b_user_access_check
+			    add column DATE_CHECK datetime NOT NULL DEFAULT CURRENT_TIMESTAMP,
+				drop index ux_uac_user_provider,
+				add unique index ux_uac_user_provider_date (USER_ID, PROVIDER_ID, DATE_CHECK)
+		, )
+2023-11-13 13:52:21 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1699872741/main/updater23.500.0/index.php': Query(
+			alter table b_agent
+				change column ID ID bigint not null auto_increment, 
+				drop index ix_act_next_exec,
+				add index ix_agent_next_exec(NEXT_EXEC),
+				add index ix_agent_module_act(MODULE_ID, ACTIVE)
+		, )
+2023-11-13 13:52:21 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1699872741/main/updater23.500.0/index.php': Query(
+			alter table b_file_duplicate
+				drop index ix_file_duplicate_duplicate,
+				add index ix_file_duplicate_original_del(ORIGINAL_ID, ORIGINAL_DELETED)
+		, )
+2023-11-13 13:52:21 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1699872741/main/updater23.500.0/index.php': Query(
+			alter table b_user_device
+				add index ix_user_device_user_cookable(USER_ID, COOKABLE)
+		, )
+2023-11-13 13:52:21 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872741/main/updater23.500.0/index.php': CopyFiles(install/components, components)
+2023-11-13 13:52:21 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872741/main/updater23.500.0/index.php': CopyFiles(install/js, js)
+2023-11-13 13:52:21 -  - TIME UpdateStepModules 0.127 sec
+2023-11-13 13:52:21 - UPD_SUCCESS - Updated: main (23.500.0)<br><li>Исправлен ряд ошибок интерфейса. <li>Исправлен ряд замечаний в PHP 8. <li>Изменен алгоритм BX.load, теперь он загружает ресурсы последовательно, чтобы снизить вероятность наступления тайм-аутов на медленных соединениях. <li>Разработчикам: логгер для AddMessage2Log можно указать в настройках .settings.php. <li>Разработчикам: роутер теперь можно получить через метод \\Bitrix\\Main\\Application::getRouter(). 
+2023-11-13 13:52:22 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:22 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:22 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.500.0&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.500.0&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.100.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=23.100.0&bitm_clouds=23.100.0&bitm_fileman=23.0.200&bitm_rest=23.100.200&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:22 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:22 -  - TIME LoadModulesUpdates(request) 0.282 sec
+2023-11-13 13:52:22 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:22 - S - STEP
+2023-11-13 13:52:22 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:22 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:22 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:22 -  - loadFile
+2023-11-13 13:52:22 - U - RETURN
+2023-11-13 13:52:22 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:22 -  - TIME UnGzipArchive 0 sec
+2023-11-13 13:52:22 -  - TIME UpdateStepModules 0.001 sec
+2023-11-13 13:52:22 - UPD_SUCCESS - Updated: main (23.500.50)<br><li>Исправлена ошибка при добавлении компонента в шаблон рассылки.
+2023-11-13 13:52:22 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:22 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:22 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.500.50&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.500.50&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.100.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=23.100.0&bitm_clouds=23.100.0&bitm_fileman=23.0.200&bitm_rest=23.100.200&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:22 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:23 -  - TIME LoadModulesUpdates(request) 0.305 sec
+2023-11-13 13:52:23 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:23 - S - STEP
+2023-11-13 13:52:23 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:23 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:23 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:23 -  - loadFile
+2023-11-13 13:52:23 - U - RETURN
+2023-11-13 13:52:23 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:23 -  - TIME UnGzipArchive 0.001 sec
+2023-11-13 13:52:23 - CSURUS1 - Run updater '/bitrix/updates/update_m1699872743/main/updater23.500.100.php'
+2023-11-13 13:52:23 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872743/main/updater23.500.100.php': CopyFiles(install/components, components)
+2023-11-13 13:52:23 -  - TIME UpdateStepModules 0.002 sec
+2023-11-13 13:52:23 - UPD_SUCCESS - Updated: main (23.500.100)<br><li>Исправлена ошибка, приводившая к отсутствию файлов в письмах при использовании шаблона.
+2023-11-13 13:52:23 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:23 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:23 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.500.100&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.500.100&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.100.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=23.100.0&bitm_clouds=23.100.0&bitm_fileman=23.0.200&bitm_rest=23.100.200&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:23 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:23 -  - TIME LoadModulesUpdates(request) 0.259 sec
+2023-11-13 13:52:23 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:23 - S - STEP
+2023-11-13 13:52:23 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:23 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:23 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:23 -  - loadFile
+2023-11-13 13:52:23 - U - RETURN
+2023-11-13 13:52:23 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:23 -  - TIME UnGzipArchive 0.001 sec
+2023-11-13 13:52:23 -  - TIME UpdateStepModules 0.001 sec
+2023-11-13 13:52:23 - UPD_SUCCESS - Updated: main (23.500.200)<br><li>Исправлена ошибка при просмотре списка форумов в административной разделе. 
+2023-11-13 13:52:24 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:24 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:24 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.500.200&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.500.200&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.100.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=23.100.0&bitm_clouds=23.100.0&bitm_fileman=23.0.200&bitm_rest=23.100.200&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:24 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:24 -  - TIME LoadModulesUpdates(request) 0.271 sec
+2023-11-13 13:52:24 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:24 - S - STEP
+2023-11-13 13:52:24 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:24 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:24 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:24 -  - loadFile
+2023-11-13 13:52:24 - U - RETURN
+2023-11-13 13:52:24 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:24 -  - TIME UnGzipArchive 0.005 sec
+2023-11-13 13:52:24 - CSURUS1 - Run updater '/bitrix/updates/update_m1699872744/ui/updater23.150.0.php'
+2023-11-13 13:52:24 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872744/ui/updater23.150.0.php': CopyFiles(install/js, js)
+2023-11-13 13:52:24 -  - TIME UpdateStepModules 0.008 sec
+2023-11-13 13:52:24 - UPD_SUCCESS - Updated: ui (23.150.0)<br><li>Исправлены ошибки в загрузчике файлов. 
+2023-11-13 13:52:25 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:25 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:25 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.500.200&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.500.200&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.100.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=23.150.0&bitm_clouds=23.100.0&bitm_fileman=23.0.200&bitm_rest=23.100.200&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:25 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:25 -  - TIME LoadModulesUpdates(request) 0.243 sec
+2023-11-13 13:52:25 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:25 - S - STEP
+2023-11-13 13:52:25 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:25 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:25 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:25 -  - loadFile
+2023-11-13 13:52:26 - U - RETURN
+2023-11-13 13:52:26 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:26 -  - TIME UnGzipArchive 0.025 sec
+2023-11-13 13:52:26 - CSURUS1 - Run updater '/bitrix/updates/update_m1699872746/ui/updater23.200.0.php'
+2023-11-13 13:52:26 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872746/ui/updater23.200.0.php': CopyFiles(install/components, components)
+2023-11-13 13:52:26 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872746/ui/updater23.200.0.php': CopyFiles(install/js, js)
+2023-11-13 13:52:26 -  - TIME UpdateStepModules 0.043 sec
+2023-11-13 13:52:26 - UPD_SUCCESS - Updated: ui (23.200.0)<br><li>Добавлены примеры разработки. <li>Исправлено добавление файла при вставке из буфера обмена ui.uploader. <li>Перенесен вызов обрабатывающих фильтров перед началом старта загрузки на сервер. Фикс обработки вставки файла через буфер обмена ui.uploader. <li>Расширен набор иконок ui.icon-set. <li>Добавлен параметр для показа в основном фрейме ui.notification. <li>Активация нужного таба для нативных уведомлений десктопа при клике ui.notification-manager.
+2023-11-13 13:52:26 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:26 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:26 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.500.200&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.500.200&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.100.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=23.200.0&bitm_clouds=23.100.0&bitm_fileman=23.0.200&bitm_rest=23.100.200&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:26 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:26 -  - TIME LoadModulesUpdates(request) 0.295 sec
+2023-11-13 13:52:26 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:27 - S - STEP
+2023-11-13 13:52:27 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:27 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:27 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:27 -  - loadFile
+2023-11-13 13:52:30 - U - RETURN
+2023-11-13 13:52:30 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:30 -  - TIME UnGzipArchive 0.073 sec
+2023-11-13 13:52:30 - CSURUS1 - Run updater '/bitrix/updates/update_m1699872750/ui/updater23.300.0.php'
+2023-11-13 13:52:30 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872750/ui/updater23.300.0.php': CopyFiles(install/components, components)
+2023-11-13 13:52:30 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872750/ui/updater23.300.0.php': CopyFiles(install/js, js)
+2023-11-13 13:52:30 -  - TIME UpdateStepModules 0.133 sec
+2023-11-13 13:52:30 - UPD_SUCCESS - Updated: ui (23.300.0)<br><li>Добавлена возможность массовых операций в менеджере push-уведомлений. <li>Добавлена поддержка нативных уведомлений для Linux-десктопов в менеджере push-уведомлений. 
+2023-11-13 13:52:30 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:30 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:30 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.500.200&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.500.200&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.100.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=23.300.0&bitm_clouds=23.100.0&bitm_fileman=23.0.200&bitm_rest=23.100.200&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:30 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:30 -  - TIME LoadModulesUpdates(request) 0.327 sec
+2023-11-13 13:52:30 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:30 - S - STEP
+2023-11-13 13:52:30 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:30 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:30 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:30 -  - loadFile
+2023-11-13 13:52:31 - U - RETURN
+2023-11-13 13:52:31 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:31 -  - TIME UnGzipArchive 0.008 sec
+2023-11-13 13:52:31 - CSURUS1 - Run updater '/bitrix/updates/update_m1699872751/fileman/updater23.100.0.php'
+2023-11-13 13:52:31 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872751/fileman/updater23.100.0.php': CopyFiles(install/js, js)
+2023-11-13 13:52:31 -  - TIME UpdateStepModules 0.01 sec
+2023-11-13 13:52:31 - UPD_SUCCESS - Updated: fileman (23.100.0)<br><li>Исправлены известные ошибки и предупреждения, связанные с переходом на PHP 8.
+2023-11-13 13:52:31 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:31 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:31 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.500.200&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.500.200&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.100.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=23.300.0&bitm_clouds=23.100.0&bitm_fileman=23.100.0&bitm_rest=23.100.200&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:31 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:32 -  - TIME LoadModulesUpdates(request) 0.298 sec
+2023-11-13 13:52:32 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:32 - S - STEP
+2023-11-13 13:52:32 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:32 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:32 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:32 -  - loadFile
+2023-11-13 13:52:32 - U - RETURN
+2023-11-13 13:52:32 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:32 -  - TIME UnGzipArchive 0.002 sec
+2023-11-13 13:52:32 - CSURUS1 - Run updater '/bitrix/updates/update_m1699872752/fileman/updater23.100.100.php'
+2023-11-13 13:52:32 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872752/fileman/updater23.100.100.php': CopyFiles(install/js, js)
+2023-11-13 13:52:32 -  - TIME UpdateStepModules 0.002 sec
+2023-11-13 13:52:32 - UPD_SUCCESS - Updated: fileman (23.100.100)<br><li>Исправлена ошибка с исчезнувшим курсором в новой версии браузера Chrome.
+2023-11-13 13:52:32 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:32 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:32 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.500.200&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.500.200&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.100.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=23.300.0&bitm_clouds=23.100.0&bitm_fileman=23.100.100&bitm_rest=23.100.200&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:32 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:33 -  - TIME LoadModulesUpdates(request) 0.318 sec
+2023-11-13 13:52:33 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:33 - S - STEP
+2023-11-13 13:52:33 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:33 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:33 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:33 -  - loadFile
+2023-11-13 13:52:33 - U - RETURN
+2023-11-13 13:52:33 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:33 -  - TIME UnGzipArchive 0.006 sec
+2023-11-13 13:52:33 - CSURUS1 - Run updater '/bitrix/updates/update_m1699872753/ui/updater23.350.0.php'
+2023-11-13 13:52:33 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872753/ui/updater23.350.0.php': CopyFiles(install/js, js)
+2023-11-13 13:52:33 -  - TIME UpdateStepModules 0.008 sec
+2023-11-13 13:52:33 - UPD_SUCCESS - Updated: ui (23.350.0)<br><li>Исправлена ошибка зацикливания всплывающих уведомлений нового чата. 
+2023-11-13 13:52:33 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:33 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:33 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.500.200&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.500.200&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.150&bitm_messageservice=23.100.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=23.350.0&bitm_clouds=23.100.0&bitm_fileman=23.100.100&bitm_rest=23.100.200&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:33 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:34 -  - TIME LoadModulesUpdates(request) 0.268 sec
+2023-11-13 13:52:34 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:34 - S - STEP
+2023-11-13 13:52:34 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:34 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:34 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:34 -  - loadFile
+2023-11-13 13:52:34 - U - RETURN
+2023-11-13 13:52:34 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:34 -  - TIME UnGzipArchive 0.001 sec
+2023-11-13 13:52:34 - CSURUS1 - Run updater '/bitrix/updates/update_m1699872754/landing/updater23.600.200.php'
+2023-11-13 13:52:34 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872754/landing/updater23.600.200.php': CopyFiles(install/components, components)
+2023-11-13 13:52:34 -  - TIME UpdateStepModules 0.003 sec
+2023-11-13 13:52:34 - UPD_SUCCESS - Updated: landing (23.600.200)<br><li>Исправление проблем с CRM-формами при переносе портала в другую доменную зону.
+2023-11-13 13:52:34 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:34 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:34 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.500.200&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.500.200&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.600.200&bitm_messageservice=23.100.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=23.350.0&bitm_clouds=23.100.0&bitm_fileman=23.100.100&bitm_rest=23.100.200&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:34 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:34 -  - TIME LoadModulesUpdates(request) 0.294 sec
+2023-11-13 13:52:34 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:34 - S - STEP
+2023-11-13 13:52:34 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:34 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:34 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:34 -  - loadFile
+2023-11-13 13:52:35 - U - RETURN
+2023-11-13 13:52:35 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:35 -  - TIME UnGzipArchive 0.015 sec
+2023-11-13 13:52:35 - CSURUS1 - Run updater '/bitrix/updates/update_m1699872755/landing/updater23.700.0.php'
+2023-11-13 13:52:35 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872755/landing/updater23.700.0.php': CopyFiles(install/blocks, blocks)
+2023-11-13 13:52:35 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872755/landing/updater23.700.0.php': CopyFiles(install/components, components)
+2023-11-13 13:52:35 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872755/landing/updater23.700.0.php': CopyFiles(install/js, js)
+2023-11-13 13:52:35 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872755/landing/updater23.700.0.php': CopyFiles(install/templates, templates)
+2023-11-13 13:52:35 -  - TIME UpdateStepModules 0.031 sec
+2023-11-13 13:52:35 - UPD_SUCCESS - Updated: landing (23.700.0)<br><li>В \"Базу знаний\" возвращен пустой шаблон. <li>Поддержка загрузки больших файлов в формах. <li>Оптимизация стилей. <li>Исправлена ошибка, при которой был некорректный размер шрифта в мобильной версии при изменении стиля заголовка. <li>Исправлена ошибка показа файлов в \"Базе знаний\" для невладельцев файлов.
+2023-11-13 13:52:35 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:35 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:35 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.500.200&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.500.200&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.700.0&bitm_messageservice=23.100.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=23.350.0&bitm_clouds=23.100.0&bitm_fileman=23.100.100&bitm_rest=23.100.200&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:35 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:36 -  - TIME LoadModulesUpdates(request) 0.297 sec
+2023-11-13 13:52:36 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:36 - S - STEP
+2023-11-13 13:52:36 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:36 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:36 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:36 -  - loadFile
+2023-11-13 13:52:36 - U - RETURN
+2023-11-13 13:52:36 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:36 -  - TIME UnGzipArchive 0.007 sec
+2023-11-13 13:52:36 - CSURUS1 - Run updater '/bitrix/updates/update_m1699872756/landing/updater23.700.100.php'
+2023-11-13 13:52:36 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872756/landing/updater23.700.100.php': CopyFiles(install/components, components)
+2023-11-13 13:52:36 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872756/landing/updater23.700.100.php': CopyFiles(install/js, js)
+2023-11-13 13:52:36 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872756/landing/updater23.700.100.php': CopyFiles(install/templates, templates)
+2023-11-13 13:52:36 -  - TIME UpdateStepModules 0.011 sec
+2023-11-13 13:52:36 - UPD_SUCCESS - Updated: landing (23.700.100)<br><li>Исправлены ошибки отображения некоторых иконок. <li>Исправлена ошибка, отображения окна настроек при раскрытии. <li>Исправлена ошибка, возникающая при установке цвета наложения. <li>Исправлена анимация при скрытии/раскрытии настроек.
+2023-11-13 13:52:36 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:36 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:36 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.500.200&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.500.200&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.700.100&bitm_messageservice=23.100.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=23.350.0&bitm_clouds=23.100.0&bitm_fileman=23.100.100&bitm_rest=23.100.200&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:36 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:37 -  - TIME LoadModulesUpdates(request) 0.274 sec
+2023-11-13 13:52:37 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:37 - S - STEP
+2023-11-13 13:52:37 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:37 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:37 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:37 -  - loadFile
+2023-11-13 13:52:38 - U - RETURN
+2023-11-13 13:52:38 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:38 -  - TIME UnGzipArchive 0.028 sec
+2023-11-13 13:52:38 - CSURUS1 - Run updater '/bitrix/updates/update_m1699872758/landing/updater23.800.0.php'
+2023-11-13 13:52:38 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872758/landing/updater23.800.0.php': CopyFiles(install/blocks, blocks)
+2023-11-13 13:52:38 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872758/landing/updater23.800.0.php': CopyFiles(install/components, components)
+2023-11-13 13:52:38 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872758/landing/updater23.800.0.php': CopyFiles(install/js, js)
+2023-11-13 13:52:38 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872758/landing/updater23.800.0.php': CopyFiles(install/templates, templates)
+2023-11-13 13:52:38 -  - TIME UpdateStepModules 0.076 sec
+2023-11-13 13:52:38 - UPD_SUCCESS - Updated: landing (23.800.0)<br><li>В блоках меню добавлена настройка кнопки меню для мобильной версии. <li>Переработано поведение панели для дизайна блока. <li>В блоках с CRM-формой исправлена ошибка, когда настройки дизайна могли не работать. <li>Исправлена ошибка, при которой в поиске Базы Знаний выдавался контент удаленных блоков. <li>Исправлена ошибка, при которой установка цвета наложения делала блок не кликабельным. <li>Исправлена ошибка, при которой не всегда отменялись внесенные изменения в редакторе. <li>Исправлена ошибка отображения иконки Apple Messages в блоке \"Список мессенджеров\". <li>Исправлена визуальная ошибка при открытии страницы настроек.
+2023-11-13 13:52:38 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:38 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:38 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.500.200&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.500.200&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.800.0&bitm_messageservice=23.100.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=23.350.0&bitm_clouds=23.100.0&bitm_fileman=23.100.100&bitm_rest=23.100.200&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:38 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:39 -  - TIME LoadModulesUpdates(request) 0.263 sec
+2023-11-13 13:52:39 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:39 - S - STEP
+2023-11-13 13:52:39 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:39 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:39 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:39 -  - loadFile
+2023-11-13 13:52:39 - U - RETURN
+2023-11-13 13:52:39 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:39 -  - TIME UnGzipArchive 0.001 sec
+2023-11-13 13:52:39 -  - TIME UpdateStepModules 0.001 sec
+2023-11-13 13:52:39 - UPD_SUCCESS - Updated: landing (23.850.0)<br><li><b>Критическое обновление безопасности, вносит улучшения в защиту модуля. Рекомендуется к немедленной установке.</b> 
+2023-11-13 13:52:39 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:39 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:39 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.500.200&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.500.200&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.850.0&bitm_messageservice=23.100.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=23.350.0&bitm_clouds=23.100.0&bitm_fileman=23.100.100&bitm_rest=23.100.200&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:39 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:39 -  - TIME LoadModulesUpdates(request) 0.276 sec
+2023-11-13 13:52:39 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:39 - S - STEP
+2023-11-13 13:52:39 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:39 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:39 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:39 -  - loadFile
+2023-11-13 13:52:41 - U - RETURN
+2023-11-13 13:52:41 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:41 -  - TIME UnGzipArchive 0.07 sec
+2023-11-13 13:52:41 - CSURUS1 - Run updater '/bitrix/updates/update_m1699872761/landing/updater23.900.0.php'
+2023-11-13 13:52:41 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872761/landing/updater23.900.0.php': CopyFiles(install/blocks, blocks)
+2023-11-13 13:52:42 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872761/landing/updater23.900.0.php': CopyFiles(install/components, components)
+2023-11-13 13:52:42 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872761/landing/updater23.900.0.php': CopyFiles(install/js, js)
+2023-11-13 13:52:42 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872761/landing/updater23.900.0.php': CopyFiles(install/templates, templates)
+2023-11-13 13:52:42 -  - TIME UpdateStepModules 0.319 sec
+2023-11-13 13:52:42 - UPD_SUCCESS - Updated: landing (23.900.0)<br><li>Теперь вы можете создать удивительные мини-сайты прямо из нашей удобной CRM-формы! <li>Мы обновили наш редактор сайтов, чтобы история изменений сохранялась безупречно. Теперь вы можете смело экспериментировать с дизайном, зная, что все ваши изменения будут точно записаны. <li>Актуализирован набор доступных шаблонов для магазинов. <li>Насладитесь исправленной и оптимизированной работой настройки дизайна заголовков в базе знаний. <li>Внесены небольшие, но важные изменения в интерфейсе для настройки цвета элементов. Теперь ваш сайт будет выглядеть ещё стильнее и эффектнее! <li>Верстка блока \"Карусель с отзывами клиентов\" теперь безупречна, словно выполнена волшебными руками. <li>Больше не нужно выходить из режима редактирования при сохранении настроек базы знаний. Это упрощает процесс настройки и экономит ваше время! <li>Копирование и вставка блока работают как часы! Это словно волшебство – вы можете легко дублировать свои любимые элементы! <li>Сделали базу знаний еще более удобной с исправленной работой блока \"Ссылка для перехода на предыдущую страницу\"! Ваши посетители всегда будут на верном пути. <li>Цвет таблицы больше не ограничен - теперь вы можете выбрать чисто-белый цвет и придать своему контенту блеск. <li>Нашли пропавший индикатор карусели на белом фоне! Теперь блоки со слайдером будут работать как часы! <li>Мы не упускаем ни одной детали! Теперь вы с лёгкостью настроите дизайн блока благодаря исправленной ошибке, которая ранее могла приводить к некорректному отображению текста. <li>Наше обновление решает проблему с сохранением настроек базы знаний и гарантирует, что ваши страницы портала останутся в идеальном состоянии. <li>Больше черных полей при создании новой формы не будет - обещаем не беспокоить вас такими мелочами! Теперь все формы создаются идеальными. <li>Теперь шаблон \"магазин + CRM\" работает в гармонии даже на мобильных устройствах! Ссылки на контакты и доставку надежно работают в мобильных браузерах! <li>Теперь кнопки выбора страниц в настройках сайта будут отображаться красиво и стильно, даже при минимальной длине текста! <li>Вставка таблиц в настройках блока теперь проста и удобна! Создавайте структурированный контент без лишних сложностей! <li>Мы отыскали и исправили ошибку с картой сайта! Символ & (амперсанд) больше не вызывает недопонимания, и карта сайта работает отлично! <li>Пробелы в адресе страницы в QR коде больше не будут мешать вашему волшебству - они экранируются как нужно. <li>Демо-данные цветов одежды исправлены, и теперь вы сможете наслаждаться великолепным ассортиментом. <li>Наши разработчики успешно решили проблему с блоком «Отзывы клиентов на затемненной фоновой картинке с перелистыванием». Теперь картинки будут отображаться в идеальном виде, как картины в галерее.
+2023-11-13 13:52:42 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:42 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:42 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.500.200&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.500.200&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.900.0&bitm_messageservice=23.100.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=23.350.0&bitm_clouds=23.100.0&bitm_fileman=23.100.100&bitm_rest=23.100.200&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:42 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:42 -  - TIME LoadModulesUpdates(request) 0.306 sec
+2023-11-13 13:52:42 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:42 - S - STEP
+2023-11-13 13:52:42 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:42 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:42 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:42 -  - loadFile
+2023-11-13 13:52:43 - U - RETURN
+2023-11-13 13:52:43 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:43 -  - TIME UnGzipArchive 0.001 sec
+2023-11-13 13:52:43 - CSURUS1 - Run updater '/bitrix/updates/update_m1699872763/landing/updater23.900.100.php'
+2023-11-13 13:52:43 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872763/landing/updater23.900.100.php': CopyFiles(install/js, js)
+2023-11-13 13:52:43 -  - TIME UpdateStepModules 0.002 sec
+2023-11-13 13:52:43 - UPD_SUCCESS - Updated: landing (23.900.100)<br><li>Исправлена ошибка, которая не позволяла сохранить ссылку в редакторе сайтов.
+2023-11-13 13:52:43 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:43 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:43 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.500.200&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.500.200&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.900.100&bitm_messageservice=23.100.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=23.350.0&bitm_clouds=23.100.0&bitm_fileman=23.100.100&bitm_rest=23.100.200&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:43 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:43 -  - TIME LoadModulesUpdates(request) 0.271 sec
+2023-11-13 13:52:43 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:43 - S - STEP
+2023-11-13 13:52:43 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:43 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:43 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:43 -  - loadFile
+2023-11-13 13:52:43 - U - RETURN
+2023-11-13 13:52:43 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:43 -  - TIME UnGzipArchive 0 sec
+2023-11-13 13:52:43 -  - TIME UpdateStepModules 0.001 sec
+2023-11-13 13:52:43 - UPD_SUCCESS - Updated: landing (23.900.200)<br><li>Исправлена ошибка, при которой загруженное в блок изображение могло не показываться.
+2023-11-13 13:52:43 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:43 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:43 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.500.200&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.500.200&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.900.200&bitm_messageservice=23.100.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=23.350.0&bitm_clouds=23.100.0&bitm_fileman=23.100.100&bitm_rest=23.100.200&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:43 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:44 -  - TIME LoadModulesUpdates(request) 0.243 sec
+2023-11-13 13:52:44 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:44 - S - STEP
+2023-11-13 13:52:44 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:44 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:44 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:44 -  - loadFile
+2023-11-13 13:52:44 - U - RETURN
+2023-11-13 13:52:44 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:44 -  - TIME UnGzipArchive 0.001 sec
+2023-11-13 13:52:44 - CSURUS1 - Run updater '/bitrix/updates/update_m1699872764/landing/updater23.900.300.php'
+2023-11-13 13:52:44 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872764/landing/updater23.900.300.php': CopyFiles(install/components, components)
+2023-11-13 13:52:44 -  - TIME UpdateStepModules 0.002 sec
+2023-11-13 13:52:44 - UPD_SUCCESS - Updated: landing (23.900.300)<br><li>Исправлена визуальная ошибка в настройках CRM-форм. 
+2023-11-13 13:52:44 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:44 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:44 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.500.200&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.500.200&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.900.300&bitm_messageservice=23.100.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=23.350.0&bitm_clouds=23.100.0&bitm_fileman=23.100.100&bitm_rest=23.100.200&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.0.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:44 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:44 -  - TIME LoadModulesUpdates(request) 0.244 sec
+2023-11-13 13:52:44 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:44 - S - STEP
+2023-11-13 13:52:44 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:44 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:44 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:44 -  - loadFile
+2023-11-13 13:52:46 - U - RETURN
+2023-11-13 13:52:46 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:46 -  - TIME UnGzipArchive 0.022 sec
+2023-11-13 13:52:46 - CSURUS1 - Run updater '/bitrix/updates/update_m1699872766/location/updater23.100.0/index.php'
+2023-11-13 13:52:46 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872766/location/updater23.100.0/index.php': CopyFiles(install/js, js)
+2023-11-13 13:52:46 -  - TIME UpdateStepModules 0.055 sec
+2023-11-13 13:52:46 - UPD_SUCCESS - Updated: location (23.100.0)<br><li>Добавлен редактор поля типа \"Адрес\" для использования в мобильном приложении.
+2023-11-13 13:52:46 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:46 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:46 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.500.200&TYPENC=D&SUPD_STS=1&SUPD_URS=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.500.200&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.900.300&bitm_messageservice=23.100.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=21.300.0&bitm_translate=23.300.0&bitm_ui=23.350.0&bitm_clouds=23.100.0&bitm_fileman=23.100.100&bitm_rest=23.100.200&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.100.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:46 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:46 -  - TIME LoadModulesUpdates(request) 0.28 sec
+2023-11-13 13:52:46 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:46 - S - STEP
+2023-11-13 13:52:46 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:46 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:46 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:46 -  - loadFile
+2023-11-13 13:52:50 - U - RETURN
+2023-11-13 13:52:50 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:50 -  - TIME UnGzipArchive 0.067 sec
+2023-11-13 13:52:50 - CSURUS1 - Run updater '/bitrix/updates/update_m1699872770/security/updater23.0.0.php'
+2023-11-13 13:52:50 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1699872770/security/updater23.0.0.php': Query(
+				CREATE TABLE b_xscan_results
+				(
+					`id` int NOT NULL AUTO_INCREMENT,
+					`type` varchar(5) NOT NULL,
+					`src` varchar(255) NOT NULL,
+					`message` varchar(255) NOT NULL,
+					`score` double NOT NULL,
+					`mtime` DATETIME NULL,
+					`ctime` DATETIME NULL,
+					`tags` TEXT NUll,
+					PRIMARY KEY(`id`)
+				)
+			, )
+2023-11-13 13:52:50 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872770/security/updater23.0.0.php': CopyFiles(install/admin, admin)
+2023-11-13 13:52:50 - CSURUS1 - Run updater '/bitrix/updates/update_m1699872770/main/updater23.600.0/index.php'
+2023-11-13 13:52:50 - CRUPDCDF2 - Run updater '/bitrix/updates/update_m1699872770/main/updater23.600.0/index.php': Query(
+		alter table b_agent
+			change column RETRY_COUNT RETRY_COUNT int not null default 0 
+	, )
+2023-11-13 13:52:50 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872770/main/updater23.600.0/index.php': CopyFiles(install/bitrix, )
+2023-11-13 13:52:50 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872770/main/updater23.600.0/index.php': CopyFiles(install/components, components)
+2023-11-13 13:52:50 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872770/main/updater23.600.0/index.php': CopyFiles(install/js, js)
+2023-11-13 13:52:50 -  - TIME UpdateStepModules 0.146 sec
+2023-11-13 13:52:50 - UPD_SUCCESS - Updated: main (23.600.0)<br><li>Исправлены интерфейсные ошибки. <li>Существенно переработан кеш memcache. <li>Разработчикам: обновлены интерфейсы PSR в поставке до PHP 8.0. <li>Разработчикам: прекращена поддержка устаревшего расширения PHP mysql. <li>Разработчикам: система обновлений требует расширение PHP openssl. <li>Разработчикам: система обновлений начала предупреждать о прекращении поддержки однобайтовых кодировок. 
+2023-11-13 13:52:50 - UPD_SUCCESS - Updated: security (23.0.0)<br><li>Модуль из маркетплейса \"Поиск троянов\" (bitrix.xscan) включен в поставку. <li>В \"Проверке .htaccess\" добавлен пошаговый режим. 
+2023-11-13 13:52:50 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:50 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:50 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.600.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.600.0&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.900.300&bitm_messageservice=23.100.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=23.0.0&bitm_translate=23.300.0&bitm_ui=23.350.0&bitm_clouds=23.100.0&bitm_fileman=23.100.100&bitm_rest=23.100.200&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.100.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:50 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:50 -  - TIME LoadModulesUpdates(request) 0.333 sec
+2023-11-13 13:52:50 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:50 - S - STEP
+2023-11-13 13:52:50 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:50 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:50 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:50 -  - loadFile
+2023-11-13 13:52:51 - U - RETURN
+2023-11-13 13:52:51 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:51 -  - TIME UnGzipArchive 0.006 sec
+2023-11-13 13:52:51 - CSURUS1 - Run updater '/bitrix/updates/update_m1699872771/main/updater23.650.0.php'
+2023-11-13 13:52:51 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872771/main/updater23.650.0.php': CopyFiles(install/components, components)
+2023-11-13 13:52:51 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872771/main/updater23.650.0.php': CopyFiles(install/js, js)
+2023-11-13 13:52:51 -  - TIME UpdateStepModules 0.011 sec
+2023-11-13 13:52:51 - UPD_SUCCESS - Updated: main (23.650.0)<br><li>Исправлены интерфейсные ошибки.
+2023-11-13 13:52:51 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:51 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:51 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.650.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.650.0&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.900.300&bitm_messageservice=23.100.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=23.0.0&bitm_translate=23.300.0&bitm_ui=23.350.0&bitm_clouds=23.100.0&bitm_fileman=23.100.100&bitm_rest=23.100.200&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.100.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:51 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:51 -  - TIME LoadModulesUpdates(request) 0.247 sec
+2023-11-13 13:52:51 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:51 - S - STEP
+2023-11-13 13:52:51 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:51 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:51 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:51 -  - loadFile
+2023-11-13 13:52:52 - U - RETURN
+2023-11-13 13:52:52 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:52 -  - TIME UnGzipArchive 0.002 sec
+2023-11-13 13:52:52 -  - TIME UpdateStepModules 0.002 sec
+2023-11-13 13:52:52 - UPD_SUCCESS - Updated: main (23.650.100)<br><li>Улучшена работа с кодами доступа пользователей. <li>Разработчикам: классы архиваторов CArchiver и CZip теперь по умолчанию проверяют права на файлы. 
+2023-11-13 13:52:52 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:52 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:52 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.650.100&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.650.100&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.900.300&bitm_messageservice=23.100.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=23.0.0&bitm_translate=23.300.0&bitm_ui=23.350.0&bitm_clouds=23.100.0&bitm_fileman=23.100.100&bitm_rest=23.100.200&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.100.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:52 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:52 -  - TIME LoadModulesUpdates(request) 0.251 sec
+2023-11-13 13:52:52 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:52 - S - STEP
+2023-11-13 13:52:52 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:52 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:52 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:52 -  - loadFile
+2023-11-13 13:52:52 - U - RETURN
+2023-11-13 13:52:52 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:52 -  - TIME UnGzipArchive 0.001 sec
+2023-11-13 13:52:52 -  - TIME UpdateStepModules 0.001 sec
+2023-11-13 13:52:52 - UPD_SUCCESS - Updated: main (23.650.200)<br><li>Исправлена ошибка композита при хитах на ЧПУ. <li>Исправлена ошибка в проверке сайта при восстановлении структуры БД. 
+2023-11-13 13:52:53 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:53 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:53 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.650.200&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.650.200&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.900.300&bitm_messageservice=23.100.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=23.0.0&bitm_translate=23.300.0&bitm_ui=23.350.0&bitm_clouds=23.100.0&bitm_fileman=23.100.100&bitm_rest=23.100.200&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.100.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:53 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:53 -  - TIME LoadModulesUpdates(request) 0.272 sec
+2023-11-13 13:52:53 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:53 - S - STEP
+2023-11-13 13:52:53 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:53 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:53 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:53 -  - loadFile
+2023-11-13 13:52:54 - U - RETURN
+2023-11-13 13:52:54 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:54 -  - TIME UnGzipArchive 0.006 sec
+2023-11-13 13:52:54 - CSURUS1 - Run updater '/bitrix/updates/update_m1699872774/main/updater23.675.0.php'
+2023-11-13 13:52:54 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872774/main/updater23.675.0.php': CopyFiles(install/components, components)
+2023-11-13 13:52:54 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872774/main/updater23.675.0.php': CopyFiles(install/js, js)
+2023-11-13 13:52:54 -  - TIME UpdateStepModules 0.007 sec
+2023-11-13 13:52:54 - UPD_SUCCESS - Updated: main (23.675.0)<br><li>Улучшена совместимость с модулем \"Управление структурой\".
+2023-11-13 13:52:54 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:54 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:54 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.675.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.675.0&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.900.300&bitm_messageservice=23.100.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=23.0.0&bitm_translate=23.300.0&bitm_ui=23.350.0&bitm_clouds=23.100.0&bitm_fileman=23.100.100&bitm_rest=23.100.200&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.100.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:54 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:54 -  - TIME LoadModulesUpdates(request) 0.29 sec
+2023-11-13 13:52:54 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:54 - S - STEP
+2023-11-13 13:52:54 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:54 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:54 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:54 -  - loadFile
+2023-11-13 13:52:54 - U - RETURN
+2023-11-13 13:52:54 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:54 -  - TIME UnGzipArchive 0.004 sec
+2023-11-13 13:52:54 - CSURUS1 - Run updater '/bitrix/updates/update_m1699872774/rest/updater23.200.0.php'
+2023-11-13 13:52:54 - CRUPDCF1 - Run updater '/bitrix/updates/update_m1699872774/rest/updater23.200.0.php': CopyFiles(install/components, components)
+2023-11-13 13:52:54 -  - TIME UpdateStepModules 0.011 sec
+2023-11-13 13:52:54 - UPD_SUCCESS - Updated: rest (23.200.0)<br><li>Добавлено описание части модулей в правах доступа локального приложения. <li>Добавлено логирование исключений. <li>Оптимизировано получение данных методом user.get при большом количестве пользователей. <li>Добавлен вывод ошибки, если не получен ответ от сервера авторизации. <li>Изменен облачный слайдер с ограничениями при установке платных приложений в маркете. <li>Переход на новую схему работы с архивами. 
+2023-11-13 13:52:55 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:55 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:55 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.675.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.675.0&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.900.300&bitm_messageservice=23.100.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=23.0.0&bitm_translate=23.300.0&bitm_ui=23.350.0&bitm_clouds=23.100.0&bitm_fileman=23.100.100&bitm_rest=23.200.0&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.100.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:55 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:55 -  - TIME LoadModulesUpdates(request) 0.4 sec
+2023-11-13 13:52:55 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:55 - S - STEP
+2023-11-13 13:52:55 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:55 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:55 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:55 -  - loadFile
+2023-11-13 13:52:55 - U - RETURN
+2023-11-13 13:52:55 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:55 -  - TIME UnGzipArchive 0.001 sec
+2023-11-13 13:52:55 -  - TIME UpdateStepModules 0.001 sec
+2023-11-13 13:52:55 - UPD_SUCCESS - Updated: rest (23.200.100)<br><li>Фильтрация пустых значений ID метода user.get.
+2023-11-13 13:52:55 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:55 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:55 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.675.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.675.0&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.900.300&bitm_messageservice=23.100.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=23.0.0&bitm_translate=23.300.0&bitm_ui=23.350.0&bitm_clouds=23.100.0&bitm_fileman=23.100.100&bitm_rest=23.200.100&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.100.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:55 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:56 -  - TIME LoadModulesUpdates(request) 0.365 sec
+2023-11-13 13:52:56 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:56 - S - STEP
+2023-11-13 13:52:56 - LMU01 - LoadModulesUpdates-Step
+2023-11-13 13:52:56 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:56 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:56 -  - loadFile
+2023-11-13 13:52:56 - U - RETURN
+2023-11-13 13:52:56 -  - exec CUpdateClient::UnGzipArchive
+2023-11-13 13:52:56 -  - TIME UnGzipArchive 0 sec
+2023-11-13 13:52:56 -  - TIME UpdateStepModules 0.001 sec
+2023-11-13 13:52:56 - UPD_SUCCESS - Updated: rest (23.200.150)<br><li>Исправлена ошибка в формировании выгрузки конфигурации.
+2023-11-13 13:52:56 -  - exec CUpdateClient::LoadModulesUpdates
+2023-11-13 13:52:56 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:52:56 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.675.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.675.0&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.900.300&bitm_messageservice=23.100.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=23.0.0&bitm_translate=23.300.0&bitm_ui=23.350.0&bitm_clouds=23.100.0&bitm_fileman=23.100.100&bitm_rest=23.200.150&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.100.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:52:56 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:52:57 -  - TIME LoadModulesUpdates(request) 0.37 sec
+2023-11-13 13:52:57 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:52:57 - STEP - Finish - NOUPDATES
+2023-11-13 13:52:57 - STEP - Finish - NOUPDATES
+2023-11-13 13:56:19 -  - exec CUpdateClient::GetUpdatesList
+2023-11-13 13:56:19 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:56:19 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.675.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.675.0&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.900.300&bitm_messageservice=23.100.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=23.0.0&bitm_translate=23.300.0&bitm_ui=23.350.0&bitm_clouds=23.100.0&bitm_fileman=23.100.100&bitm_rest=23.200.150&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.100.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:56:19 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:56:19 -  - TIME GetUpdatesList(request) 0.494 sec
+2023-11-13 13:56:19 -  - exec CUpdateClient::ParseServerData
+2023-11-13 13:56:19 -  - exec CUpdateClient::executeCounters
+2023-11-13 13:56:19 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:56:19 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.675.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.675.0&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.900.300&bitm_messageservice=23.100.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=23.0.0&bitm_translate=23.300.0&bitm_ui=23.350.0&bitm_clouds=23.100.0&bitm_fileman=23.100.100&bitm_rest=23.200.150&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.100.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y&query_type=counter&cntr_result[440]=X
+2023-11-13 13:56:19 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:56:20 -  - TIME executeCounters 0.252 sec
+2023-11-13 13:56:32 -  - exec CUpdateClient::GetUpdatesList
+2023-11-13 13:56:32 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 13:56:32 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.675.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.675.0&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.900.300&bitm_messageservice=23.100.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=23.0.0&bitm_translate=23.300.0&bitm_ui=23.350.0&bitm_clouds=23.100.0&bitm_fileman=23.100.100&bitm_rest=23.200.150&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.100.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 13:56:32 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 13:56:33 -  - TIME GetUpdatesList(request) 0.322 sec
+2023-11-13 13:56:33 -  - exec CUpdateClient::ParseServerData
+2023-11-13 14:29:38 -  - exec CUpdateClient::GetUpdatesList
+2023-11-13 14:29:38 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 14:29:38 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.675.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.675.0&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.900.300&bitm_messageservice=23.100.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=23.0.0&bitm_translate=23.300.0&bitm_ui=23.350.0&bitm_clouds=23.100.0&bitm_fileman=23.100.100&bitm_rest=23.200.150&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.100.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 14:29:38 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 14:29:39 -  - TIME GetUpdatesList(request) 0.451 sec
+2023-11-13 14:29:39 -  - exec CUpdateClient::ParseServerData
+2023-11-13 14:29:39 -  - exec CUpdateClient::executeCounters
+2023-11-13 14:29:39 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 14:29:39 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.675.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.675.0&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.900.300&bitm_messageservice=23.100.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=23.0.0&bitm_translate=23.300.0&bitm_ui=23.350.0&bitm_clouds=23.100.0&bitm_fileman=23.100.100&bitm_rest=23.200.150&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.100.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y&query_type=counter&cntr_result[436]=X
+2023-11-13 14:29:39 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 14:29:39 -  - TIME executeCounters 0.247 sec
+2023-11-13 14:29:43 -  - exec CUpdateClient::GetUpdatesList
+2023-11-13 14:29:43 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 14:29:43 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.675.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.675.0&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.900.300&bitm_messageservice=23.100.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=23.0.0&bitm_translate=23.300.0&bitm_ui=23.350.0&bitm_clouds=23.100.0&bitm_fileman=23.100.100&bitm_rest=23.200.150&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.100.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y
+2023-11-13 14:29:43 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 14:29:43 -  - TIME GetUpdatesList(request) 0.322 sec
+2023-11-13 14:29:43 -  - exec CUpdateClient::ParseServerData
+2023-11-13 14:29:43 -  - exec CUpdateClient::executeCounters
+2023-11-13 14:29:43 -  - exec CUpdateClient::CollectRequestData
+2023-11-13 14:29:43 -  - LICENSE_KEY=X&lang=ru&SUPD_VER=23.600.0&VERSION=23.675.0&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=bitrix.local&SERVER_NAME=bitrix.local%3A8081&CHHB=bitrix.local%3A8081&CSAB=&SUID=01zcw76n1y742bn45shs9q6u3hxz5pd7&CANGZIP=Y&CLIENT_PHPVER=8.0.30&stable=Y&mbfo=0&NGINX=Y&SMD=N&rerere=Y&bitm_main=23.675.0&bitm_seo=23.300.300&bitm_b24connector=22.0.0&bitm_socialservices=22.200.400&bitm_landing=23.900.300&bitm_messageservice=23.100.0&bitm_subscribe=21.0.0&bitm_iblock=23.200.0&bitm_bitrixcloud=22.100.0&bitm_perfmon=23.0.0&bitm_forum=23.250.0&bitm_blog=22.0.0&bitm_mobileapp=23.100.100&bitm_search=22.100.0&bitm_security=23.0.0&bitm_translate=23.300.0&bitm_ui=23.350.0&bitm_clouds=23.100.0&bitm_fileman=23.100.100&bitm_rest=23.200.150&bitm_scale=21.0.0&bitm_vote=23.200.0&bitm_location=23.100.0&bitm_form=22.0.0&bitm_photogallery=23.0.0&bitm_highloadblock=23.0.0&bitl_ru=&bitl_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y&LICENSE_SIGNED=%7Enew_license18_0_sign-Y&query_type=counter&cntr_result[438]=X
+2023-11-13 14:29:43 -  - exec CUpdateClient::GetHTTPPage
+2023-11-13 14:29:44 -  - TIME executeCounters 0.238 sec
