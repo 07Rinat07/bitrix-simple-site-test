@@ -1,2 +1,7 @@
 <?php
-$sSectionName="example2";
+$sSectionName = 'Example2';
+$arDirProperties = [
+   'description' => 'Its Example 2',
+   'keywords' => 'Example, Too',
+    'some_property' => 'Some Value',
+];
