@@ -1,0 +1,2 @@
+<?php
+$sSectionName="example2";
